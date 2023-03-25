@@ -1,0 +1,17 @@
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\bin\Debug\net6.0-windows\Boundary Value Analysis.exe
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\bin\Debug\net6.0-windows\Boundary Value Analysis.deps.json
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\bin\Debug\net6.0-windows\Boundary Value Analysis.runtimeconfig.json
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\bin\Debug\net6.0-windows\Boundary Value Analysis.dll
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\bin\Debug\net6.0-windows\Boundary Value Analysis.pdb
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.csproj.AssemblyReference.cache
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary_Value_Analysis.Form1.resources
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.csproj.GenerateResource.cache
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.AssemblyInfoInputs.cache
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.AssemblyInfo.cs
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.csproj.CoreCompileInputs.cache
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.dll
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\refint\Boundary Value Analysis.dll
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.pdb
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\Boundary Value Analysis.genruntimeconfig.cache
+F:\Apps\C#\Proj\Boundary Value Analysis\Boundary Value Analysis\Boundary Value Analysis\obj\Debug\net6.0-windows\ref\Boundary Value Analysis.dll

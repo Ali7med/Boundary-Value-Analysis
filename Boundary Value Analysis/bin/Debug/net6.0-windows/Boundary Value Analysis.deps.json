@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Boundary Value Analysis/1.0.0": {
+        "runtime": {
+          "Boundary Value Analysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boundary Value Analysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
